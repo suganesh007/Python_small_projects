@@ -50,9 +50,9 @@ Execute the game script:
             Guide the turtle across the busy road! Dodge cars and reach the other side safely.
             
 <h2>🚀 Features</h2>
-          .Simple controls 🕹<br>
-          Increasing difficulty 🚗🚙<br>
-          Fun and challenging gameplay 🎯<br>
+          . Simple controls 🕹<br>
+          . Increasing difficulty 🚗🚙<br>
+          . Fun and challenging gameplay 🎯<br>
 
 <h2>📸 Screenshots</h2>
 <div><img src = "images/img5.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
@@ -61,15 +61,17 @@ Execute the game script:
 <h1>🛠 Installation</h1>
         <h3>Clone the Repo:</h3>
         <pre>git clone
-          https://github.com/yourusername/turtle-road-crossing.git
+          https://github.com/suganesh007/Python_small_projects.git
         </pre>
 <h1>🎮 How to Play</h1>
 <h3>Arrow Keys:</h3>
- 1.) Move the turtle up, down, left, and right.<br>
+ 1.) Move the turtle up, down<br>
  2.) Avoid getting hit by the cars!
  
 <h3>🏁 Objective</h3>
       Help the turtle reach the other side of the road safely!
+      <br><br><br>
+      <br><br><br>
       <br><br><br>
       
       
@@ -78,9 +80,9 @@ Execute the game script:
     Classic paddle game where you control the paddle to keep the ball bouncing and prevent it from falling.
     
 <h3>🚀 Features</h3>
-        Single-player mode 🕹<br>
-        Smooth paddle controls<br>
-        🎮Increasing speed challenge<br>
+       .  Double-player mode 🕹<br>
+       .  Smooth paddle controls<br>
+       .  🎮Increasing speed challenge<br>
 
 <h2>📸 Screenshots</h2>
 <div><img src = "images/img4.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
@@ -89,15 +91,15 @@ Execute the game script:
 <h3>⚡🛠 Installation</h3>
   <h5>Clone the Repo:</h5>
         <pre>git clone
-          https://github.com/yourusername/paddle-game.git</pre>
-  <h5>Install Dependencies:</h5>
-  <pre>pip install -r requirements.txt</pre>
+           https://github.com/suganesh007/Python_small_projects.git</pre>
   <h3>Run the Game:</h3>
           <pre>python paddle_game.py</pre>
   <h3>🎮 How to Play</h3>
   <h5>Arrow Keys: </h5>
-          . Move the paddle left and right.
+          . Move the paddle Up and Down.
           . Keep the ball in play and rack up points!
+          . Use Up arrow and Down Arrow for player 1.
+          . move key "W" for up and "Z" for down for another player.
   <h2>🏆 Goal</h2>
   Score as high as possible by keeping the ball in play as long as you can!
 
