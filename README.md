@@ -24,6 +24,8 @@ Ends on collision with walls or the snake’s own body.
 <h3>lone the Repository:</h3>
   <pre>    git clone <br>    https://github.com/suganesh007/Python_small_projects.git</pre>
   
+<div><img src = "images/img1.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
+
 <h3>Navigate to the Project Directory:</h3>
 <pre>cd snake-game</pre>
 <h3>Install Dependencies: </h3>
@@ -40,6 +42,15 @@ Execute the game script:
           <h6>Game Loop:</h6> Runs continuously to update game state and handle user inputs.<br>
           <h6>Collision Detection:</h6> Checks for collisions with walls and the snake’s own body.<br>
           <h6>Score Tracking:</h6> Keeps track of the player’s score and adjusts the game difficulty.
+
+
+
+<div><img src = "images/img2.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
+<div><img src = "images/img3.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
+<div><img src = "images/img4.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
+<div><img src = "images/img5.png" alt="output images" style="border-radius: 10px; max-width:100%; border:10px solid black"></div> <br>
+
+
 
 <h1>🛠 Development</h1>
             Contributions and improvements are welcome! To contribute:
